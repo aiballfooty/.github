@@ -2,9 +2,10 @@
 
 Football data you can check — built out of Malaysia.
 
-Most football sites publish an accuracy figure and no way to verify it. We publish the model's read
-on every match **before kick-off**, then score all of them in public afterwards — including the
-misses, and next to a column that scores the same matches by simply backing the pre-match favourite.
+Most football sites publish an accuracy figure and no way to verify it. We put the model's read on
+every match on a public record and mark every one of them right or wrong against the final score —
+including the misses, and next to a column that scores the same matches by simply backing the
+pre-match favourite.
 
 As of 27 September 2026 that record holds **473 matches, 274 called right (57.9%)**. Backing the
 favourite every time over the same matches: 272 (57.5%). A gap of 0.4 points — which is why we don't
