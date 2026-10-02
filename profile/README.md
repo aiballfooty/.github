@@ -2,6 +2,21 @@
 
 Football data you can check — built out of Malaysia.
 
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2Faiballfooty-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aiballfooty)
+[![Agent Skill](https://img.shields.io/badge/Agent_Skill-aiballfooty%2Faiball--skills-2F8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiballfooty/aiball-skills)
+
+> [!TIP]
+> **Daily on Telegram → [t.me/aiballfooty](https://t.me/aiballfooty)**: the model's read on each match before kick-off, and how it went after full time.
+>
+> **Use AI Ball inside your AI assistant** (Claude Code, Codex, Cursor, Gemini CLI, Copilot and other agents that support skills):
+>
+> ```bash
+> npx skills add aiballfooty/aiball-skills
+> ```
+>
+> Plugin installs for Claude Code and Codex: [aiballfooty/aiball-skills](https://github.com/aiballfooty/aiball-skills#install)
+
+
 Most football sites publish an accuracy figure and no way to verify it. We put the model's read on
 every match on a public record and mark every one of them right or wrong against the final score —
 including the misses, and next to a column that scores the same matches by simply backing the
